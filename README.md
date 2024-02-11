@@ -1,3 +1,5 @@
+[![wakatime](https://wakatime.com/badge/user/018d91f4-ad5b-4f80-8827-1f8605338345/project/018d91f9-d5d2-444b-9fd3-63f1fc41e4ef.svg)](https://wakatime.com/badge/user/018d91f4-ad5b-4f80-8827-1f8605338345/project/018d91f9-d5d2-444b-9fd3-63f1fc41e4ef)
+
 # Neovim Dot-files
 
 This repository contains Neovim config files for both Linux and Windows-based environments. 
